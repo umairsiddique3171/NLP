@@ -1,0 +1,8 @@
+NLP is a computer science and AI field that allows machines to understand human language better and assist in language-related tasks.
+
+
+TensorFlowHub and FastText are providing so many valuable models for free which consumed huge computational resources while training.
+
+
+
+

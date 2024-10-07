@@ -1,0 +1,6 @@
+1- Rules and Heuristics (e.g. regex: information extraction)
+2- Machine Learning (e.g. naive bayes: email spam classification)
+3- Deep Learning (e.g. sentence embedding: similarity between sentences) 
+
+
+

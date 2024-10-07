@@ -1,0 +1,39 @@
+Text Classification: 
+	Customer Complain Severity Classification, 
+	Documents Classification, 
+	Hate Speech Detection, 
+	Fake Profile Detection, etc.
+
+Text Similarity:
+	Resume Screening,
+	Search Engines,
+	Articles Recommendation, etc.
+
+Information Extraction: 
+	Customer Info Extraction,
+	Trending Topics, etc.
+
+Information Retreival:
+	Google Search
+
+Chat Bots:
+	FAQ Bot,
+	Flow-Based Bot,
+	Open-Ended Bot,
+	OpenAI,
+	Gemini,
+	Customer Cart Chatbot, etc.
+
+Machine Translation:
+	Google Translation
+
+Language Modeling:
+	Gmail Sentence Auto-Completion
+
+Text Summarization: 
+	Article Summarization
+	Report Summarization, etc.
+
+Topic Modeling:
+	Grouping documents under certain topic
+
