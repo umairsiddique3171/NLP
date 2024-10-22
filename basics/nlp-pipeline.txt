@@ -1,0 +1,35 @@
+1. Data Acquisition: 
+	-> Acquiring data from a company database, S3 bucket, etc.
+	-> Use publicly available datasets
+	-> Data Scraping, Web Scraping, etc.
+	-> Data Augmentation
+	-> Product Intervention
+2. Text Extraction & Cleanup: 
+	-> Discard irrelevant information
+	-> Spelling Correction, removing \n, etc. 
+3. Preprocessing: 
+	-> Sentence Tokenization (or Sentence Segmentation)
+	-> Word Tokenization
+	-> Stemming
+	-> Lemmatization
+4. Feature Engineering: 
+	-> TF-IDF Vectorizer
+	-> One Hot Encoding
+	-> Word Embedding
+5. Model Building: 
+	-> Naive Bayes
+	-> Random Forest
+	-> GridSearchCV
+6. Evaluation: 
+	-> Confusion Matrix
+	-> Precision
+	-> Recall 
+	-> F1 Score
+7. Deployment: 
+	-> FastAPI, Flask, etc.
+	-> GCP
+	-> AWS
+	-> Azure
+8. Monitor & Update: 
+	-> CI/CD Pipelines
+
